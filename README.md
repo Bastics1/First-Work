@@ -1,2 +1,2 @@
 # First-Work
-First Work if GitHub
+First Work in GitHub
