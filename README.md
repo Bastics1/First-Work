@@ -1,2 +1,3 @@
 # First-Work
-First Work in GitHub
+First Work in Git
+Eugene Kuzmin PI-211
